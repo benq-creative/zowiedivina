@@ -2,8 +2,8 @@ var gridViewScroll = null;
         window.onload = function () {
             gridViewScroll = new GridViewScroll({
                 elementID: "gvMain",
-                width: 850,
-                height: 350,
+                width: 1190,
+                height: 500,
                 freezeColumn: true,
                 freezeFooter: true,
                 freezeColumnCssClass: "GridViewScrollItemFreeze",
