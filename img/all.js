@@ -7,7 +7,6 @@ var gridViewScroll = null;
                 freezeColumn: true,
                 freezeFooter: true,
                 freezeColumnCssClass: "GridViewScrollItemFreeze",
-                freezeFooterCssClass: "GridViewScrollFooterFreeze",
                 freezeHeaderRowCount: 2,
                 freezeColumnCount: 3,
                 onscroll: function (scrollTop, scrollLeft) {
